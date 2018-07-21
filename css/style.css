@@ -1,0 +1,45 @@
+body{
+    background-color: gray;
+    color: white;
+}
+h1{
+    color: blue;
+    
+}
+#parrafo{
+    color: red;
+    font-style:oblique; 
+}
+
+ul li{
+    background-color: black;
+    font-style:oblique;
+}
+.roja{
+    color: red;
+    font-style:oblique;
+}
+
+.cuadrado{
+    width:100px;
+    height:100px;
+    background-color: white;
+    border: 8px solid green;
+    border-radius: 100px;
+    box-shadow:10px 10px;
+    box-shadow:10px 10px 5px 5px;
+    
+
+
+
+}
+    
+*{
+    background: (255,0,0,0.25);
+    padding:5px;
+    border: 8px solid green;
+    
+
+
+}
+

@@ -1,0 +1,9 @@
+section > p{
+  Color: BLUE;
+}
+h1 + p {
+    text-transform: uppercase;
+}
+ body > section > h1 ~ p {
+     background-color:yellow;
+ }
